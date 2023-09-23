@@ -1,0 +1,5 @@
+.domino/
+.dominoignore
+.dominoresults
+.ipynb_checkpoints/
+results/
